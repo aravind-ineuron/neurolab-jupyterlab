@@ -1,2 +1,2 @@
 # Jupyter lab 
-- Execute the codes in each cells to get the output.
+- Execute the codes in each cell to get the output.
