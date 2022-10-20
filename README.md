@@ -1,4 +1,2 @@
 # Jupyter lab 
-- Open Jupyter Lab click on Upload Files.
-- Download [sample-code.ipynb](https://github.com/aravind-ineuron/neurolab-jupyterlab/blob/main/sample-code.ipynb) file.
-- Upload to Jupyter lab and Run all the cells
+- Execute the codes in each cells to get the output.
